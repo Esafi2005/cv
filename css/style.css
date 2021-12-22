@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Cairo', sans-serif;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-size: 80px;
+  padding-top: 50px;
+  color: #66BFBF;
+}
+
+h2 {
+  margin: 50px auto 0 auto;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  color: #11999E;
+}
+
+h3 {
+  margin: 0 auto 0 auto;
+  color: #11999E;
+}
+
+.topContainer {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.topCloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottomCloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.middleContainer {
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.chillies {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.computer {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottomContainer {
+}
+
+.footer-link {
+  color: #11999E;
+}
